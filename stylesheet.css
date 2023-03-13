@@ -6,6 +6,18 @@ strong {
 	color: rgb(227, 95, 0);
     font-size: large;
 }
+a:link{
+    color: #c05a00;
+}
+a:visited{
+    color: #c05a00;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color:black
+}
 img {
     width: 100%;
 
